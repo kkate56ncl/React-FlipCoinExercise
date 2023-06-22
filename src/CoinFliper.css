@@ -1,0 +1,7 @@
+.CoinFliper button {
+  display: block;
+  margin: 1em auto;
+  font-size: 100%;
+  border-radius: 5px;
+  background-color: #fff;
+}
